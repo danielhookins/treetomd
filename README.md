@@ -2,6 +2,14 @@
 
 A Python script to generate a Markdown-formatted directory tree of a given codebase or directory. This tool is especially useful for creating visual overviews of your project structure in README files or documentation.
 
+       *
+      ***
+     *****
+    *******
+   *********
+      | |
+   TREE TO MD
+
 ## Table of Contents
 
 - [Features](#features)
