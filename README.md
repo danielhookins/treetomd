@@ -6,8 +6,7 @@ A Python script to generate a Markdown-formatted directory tree of a given codeb
       ***
      *****
     *******
-   *********
-      | |
+      [ ]
    TREE TO MD
 
 ## Table of Contents
